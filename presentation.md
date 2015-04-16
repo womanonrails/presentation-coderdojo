@@ -126,8 +126,6 @@ class: center, middle, inverse
 
 ---
 
-class: middle
-
 ### Pasja
 
 .large-image[![Passion](./images/passion.jpg)]
@@ -137,8 +135,6 @@ class: middle
 - zaangażowanie, chęci, pasja
 
 ---
-
-class: middle
 
 ### Pomysły
 
@@ -150,8 +146,6 @@ class: middle
 
 ---
 
-class: middle
-
 ### Komputer + Internet
 
 .large-image[![Komputer](./images/laptop.jpg)]
@@ -162,8 +156,6 @@ class: middle
 - internet
 
 ---
-
-class: middle
 
 ### Miejsce
 
@@ -226,8 +218,6 @@ class: middle
 .large-image[![Grafika](./images/graphic.jpg)]
 
 ---
-
-class: middle
 
 ### Nauka programowania
 
