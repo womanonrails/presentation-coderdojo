@@ -181,9 +181,11 @@ class: middle
 
 ---
 
-class: center, middle, inverse
+class: center, middle
 
 # Jedna zasada - bądź fajny!
+
+.large-image[![Be cool](./images/becool.png)]
 
 ---
 
@@ -310,5 +312,5 @@ class: middle
 - [CoderDojo Polska](http://coderdojo.org.pl/)
 
 
-- [Flickr - Passon](https://www.flickr.com/photos/pinkmoose/178865612)
+- [Flickr - Passion](https://www.flickr.com/photos/pinkmoose/178865612)
 - [Flickr - Place](https://www.flickr.com/photos/59761838@N08/7328633848)
