@@ -37,6 +37,12 @@ class: middle, center
 
 ---
 
+class: middle
+
+.large-image[![Społeczność](./images/community.jpg)]
+
+---
+
 class: center, middle, inverse
 
 # Cele
@@ -294,3 +300,15 @@ class: middle, center, sygnature
 
 amatysek@fractalsoft.org
 
+---
+
+class: middle
+
+# Bibliografia
+
+- [CoderDojo](https://coderdojo.com/)
+- [CoderDojo Polska](http://coderdojo.org.pl/)
+
+
+- [Flickr - Passon](https://www.flickr.com/photos/pinkmoose/178865612)
+- [Flickr - Place](https://www.flickr.com/photos/59761838@N08/7328633848)
