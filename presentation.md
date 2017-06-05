@@ -86,15 +86,20 @@ class: middle, none-style-list
 .large-image[![DoderDojo Polska](./images/coderdojo_polska.jpeg)]
 
 .left-column[
-- Zambrów
 - Białystok
-- Gliwice
+- Bielsko-Biała
+- Cieszyn
+- Cisie
+- Gdańsk
 ]
 
 .right-column[
+- Gliwice
+- Kraków
 - Poznań
-- Cieszyn
 - Warszawa
+- Wrocław
+- Zambrów
 ]
 
 ---
@@ -288,9 +293,14 @@ class: middle, center, sygnature
 
 .small-image[![Womanonrails](./images/womanonrails.png)]
 ### Agnieszka Matysek
-[@womanonrails](https://twitter.com/womanonrails)
+
+[<span class="brandico-blogger-rect"></span> Woman on Rails](http://womanonrails.com/)
+
+[<span class="brandico-tumblr-rect"></span> @womanonrails](https://twitter.com/womanonrails)
 
 amatysek@fractalsoft.org
+
+gliwice@coderdojo.org.pl
 
 ---
 

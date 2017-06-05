@@ -4,6 +4,13 @@
 @import url(http://fonts.googleapis.com/css?family=Kaushan+Script);
 @import url(http://fonts.googleapis.com/css?family=Lora);
 
+@import url(http://weloveiconfonts.com/api/?family=brandico);
+
+/* brandico */
+[class*="brandico-"]:before {
+  font-family: 'brandico', sans-serif;
+}
+
 body { font-family: 'Lora', serif; }
 
 h1, h2, h3 {
